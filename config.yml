@@ -8,6 +8,6 @@ settings:
   channelsPerFile: 9000  # Maximum number of channels per file
 
 urls:
-- http://MyWebsitezzz.net
+- https://github.com/mikhoul/Automated-IPTV-M3U-Playlist-Generator
 
   # Add more URLs here (up to 100)
