@@ -1,20 +1,20 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-07-03 23:39:39
+Generated: 2026-07-04 22:45:17
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 3123
+Total Lines Processed: 3126
 Total Channels Found: 1242
 Parsing Errors: 0
 Urls Validated: 992
-Active Urls: 812
-Geo Blocked Urls: 154
-Validation Time: 139.08884835243225
-Inactive By Error: {'http_404': 102, 'inactive': 40, 'invalid_content': 17, 'http_401': 1, 'http_502': 1, 'http_503': 8, 'http_400': 5, 'http_504': 6}
-Total Processing Time: 146.95610404014587
-Final Channel Count: 812
+Active Urls: 810
+Geo Blocked Urls: 153
+Validation Time: 138.27040243148804
+Inactive By Error: {'http_404': 102, 'inactive': 39, 'invalid_content': 17, 'http_502': 1, 'http_401': 1, 'http_503': 8, 'http_400': 5, 'http_504': 7, 'http_500': 2}
+Total Processing Time: 147.47704601287842
+Final Channel Count: 810
 Source Urls Processed: 8
 Total Skipped Urls: 112
 
@@ -28,9 +28,9 @@ General: 38 channels
 Généraliste: 33 channels
 Divertissement: 28 channels
 Series: 24 channels
-Kids: 21 channels
 News: 21 channels
 Actualités: 20 channels
+Kids: 20 channels
 Séries TV: 19 channels
 Sport Multiplex: 18 channels
 Musique: 15 channels
@@ -48,9 +48,9 @@ Classic TV: 9 channels
 Crime: 8 channels
 Movies: 8 channels
 Comedy: 8 channels
-À Binge-Watch: 8 channels
 Classic: 7 channels
 Animation;Comedy: 7 channels
+À Binge-Watch: 7 channels
 Crime & Mystère: 7 channels
 Voyages et Gastronomie: 6 channels
 Movies;Series: 6 channels
@@ -78,13 +78,13 @@ Découverte: 2 channels
 Classic;Comedy: 2 channels
 Legislative: 2 channels
 Emissions cultes: 2 channels
-True Crime: 2 channels
 Anime & Gaming, Kids & Family: 2 channels
-Hit TV, True Crime: 2 channels
+True Crime: 2 channels
 Drama TV: 2 channels
+Hit TV, True Crime: 2 channels
 Educatif: 1 channels
-Film: 1 channels
 Comedie: 1 channels
+Film: 1 channels
 Réréalité: 1 channels
 Affaires Publiques: 1 channels
 Cuisine: 1 channels
@@ -96,17 +96,17 @@ Lifestyle;Outdoor: 1 channels
 Education;Kids: 1 channels
 Animation;Kids: 1 channels
 Auto: 1 channels
-Outdoor;Sports: 1 channels
-Documentary;Series: 1 channels
 Classic;Movies: 1 channels
-Comedy;Movies: 1 channels
+Documentary;Series: 1 channels
+Outdoor;Sports: 1 channels
 Comedy;Series: 1 channels
 Shop: 1 channels
-Relax: 1 channels
 Weather: 1 channels
+Comedy;Movies: 1 channels
+Relax: 1 channels
 Hit TV: 1 channels
-Hit TV, Game Shows: 1 channels
 Drama TV, Movies: 1 channels
+Hit TV, Game Shows: 1 channels
 International: 1 channels
 
 VALIDATION FAILURE BREAKDOWN
@@ -114,10 +114,11 @@ VALIDATION FAILURE BREAKDOWN
 HTTP 400 Errors: 5 channels
 HTTP 401 Errors: 1 channels
 HTTP 404 Errors: 102 channels
+HTTP 500 Errors: 2 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 8 channels
-HTTP 504 Errors: 6 channels
-Inactive: 40 channels
+HTTP 504 Errors: 7 channels
+Inactive: 39 channels
 Invalid Content: 17 channels
 
 SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
