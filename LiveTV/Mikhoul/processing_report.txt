@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-07-12 22:34:36
+Generated: 2026-07-13 22:42:52
 ============================================================
 
 PROCESSING STATISTICS
@@ -11,9 +11,9 @@ Parsing Errors: 0
 Urls Validated: 1005
 Active Urls: 815
 Geo Blocked Urls: 153
-Validation Time: 139.4661979675293
-Inactive By Error: {'http_404': 107, 'inactive': 42, 'http_502': 1, 'invalid_content': 17, 'http_401': 1, 'http_503': 8, 'http_400': 5, 'http_500': 3, 'http_504': 6}
-Total Processing Time: 147.79329586029053
+Validation Time: 145.59370303153992
+Inactive By Error: {'http_404': 107, 'inactive': 43, 'invalid_content': 17, 'http_401': 1, 'http_502': 1, 'http_503': 8, 'http_400': 5, 'http_504': 6, 'http_500': 2}
+Total Processing Time: 153.3506155014038
 Final Channel Count: 815
 Source Urls Processed: 8
 Total Skipped Urls: 112
@@ -22,9 +22,9 @@ CHANNEL DISTRIBUTION
 --------------------
 Uncategorized: 111 channels
 Music: 58 channels
-Sports: 50 channels
-Cinéma: 48 channels
-General: 40 channels
+Sports: 49 channels
+Cinéma: 49 channels
+General: 41 channels
 Généraliste: 33 channels
 Divertissement: 28 channels
 Series: 24 channels
@@ -48,10 +48,10 @@ Classic TV: 9 channels
 Crime: 8 channels
 Movies: 8 channels
 Comedy: 8 channels
-À Binge-Watch: 8 channels
 Classic: 7 channels
 Animation;Comedy: 7 channels
 Séries Policières: 7 channels
+À Binge-Watch: 7 channels
 Crime & Mystère: 7 channels
 Voyages et Gastronomie: 6 channels
 Nouveau sur Pluto TV: 6 channels
@@ -78,14 +78,14 @@ History & Science: 3 channels
 Découverte: 2 channels
 Classic;Comedy: 2 channels
 Emissions cultes: 2 channels
-Anime & Gaming, Kids & Family: 2 channels
 True Crime: 2 channels
+Anime & Gaming, Kids & Family: 2 channels
 Drama TV: 2 channels
 Hit TV, True Crime: 2 channels
 Educatif: 1 channels
-Comedie: 1 channels
 Réréalité: 1 channels
 Film: 1 channels
+Comedie: 1 channels
 Affaires Publiques: 1 channels
 Thématique: 1 channels
 Cuisine: 1 channels
@@ -97,13 +97,13 @@ Education;Kids: 1 channels
 Animation;Kids: 1 channels
 Auto: 1 channels
 Outdoor;Sports: 1 channels
-Comedy;Movies: 1 channels
 Classic;Movies: 1 channels
-Comedy;Series: 1 channels
-Weather: 1 channels
-Shop: 1 channels
 Documentary;Series: 1 channels
+Comedy;Series: 1 channels
+Shop: 1 channels
+Weather: 1 channels
 Relax: 1 channels
+Comedy;Movies: 1 channels
 Hit TV: 1 channels
 Hit TV, Game Shows: 1 channels
 Drama TV, Movies: 1 channels
@@ -114,11 +114,11 @@ VALIDATION FAILURE BREAKDOWN
 HTTP 400 Errors: 5 channels
 HTTP 401 Errors: 1 channels
 HTTP 404 Errors: 107 channels
-HTTP 500 Errors: 3 channels
+HTTP 500 Errors: 2 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 8 channels
 HTTP 504 Errors: 6 channels
-Inactive: 42 channels
+Inactive: 43 channels
 Invalid Content: 17 channels
 
 SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
