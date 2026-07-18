@@ -1,20 +1,20 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-07-17 22:34:23
+Generated: 2026-07-18 20:29:41
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
 Total Lines Processed: 3154
-Total Channels Found: 1255
+Total Channels Found: 1256
 Parsing Errors: 0
-Urls Validated: 1005
-Active Urls: 820
+Urls Validated: 1006
+Active Urls: 821
 Geo Blocked Urls: 153
-Validation Time: 137.17130517959595
+Validation Time: 140.36471509933472
 Inactive By Error: {'http_404': 106, 'inactive': 41, 'invalid_content': 17, 'http_401': 1, 'http_502': 1, 'http_503': 8, 'http_400': 5, 'http_504': 5, 'http_500': 1}
-Total Processing Time: 145.3662121295929
-Final Channel Count: 820
+Total Processing Time: 147.6903486251831
+Final Channel Count: 821
 Source Urls Processed: 8
 Total Skipped Urls: 112
 
@@ -43,10 +43,10 @@ Kids & Family: 11 channels
 FRANCE: 11 channels
 Régionale: 10 channels
 Séries et Divertissements: 9 channels
+Movies: 9 channels
 100% Français: 9 channels
 Classic TV: 9 channels
 Crime: 8 channels
-Movies: 8 channels
 Comedy: 8 channels
 Classic: 7 channels
 Animation;Comedy: 7 channels
@@ -83,9 +83,9 @@ True Crime: 2 channels
 Hit TV, True Crime: 2 channels
 Drama TV: 2 channels
 Educatif: 1 channels
-Film: 1 channels
-Réréalité: 1 channels
 Comedie: 1 channels
+Réréalité: 1 channels
+Film: 1 channels
 Affaires Publiques: 1 channels
 Thématique: 1 channels
 Cuisine: 1 channels
@@ -95,15 +95,15 @@ Etrangère: 1 channels
 Lifestyle;Outdoor: 1 channels
 Education;Kids: 1 channels
 Animation;Kids: 1 channels
-Auto: 1 channels
 Outdoor;Sports: 1 channels
 Comedy;Movies: 1 channels
-Classic;Movies: 1 channels
 Documentary;Series: 1 channels
 Comedy;Series: 1 channels
-Shop: 1 channels
 Weather: 1 channels
 Relax: 1 channels
+Shop: 1 channels
+Auto: 1 channels
+Classic;Movies: 1 channels
 Hit TV: 1 channels
 Drama TV, Movies: 1 channels
 Hit TV, Game Shows: 1 channels
