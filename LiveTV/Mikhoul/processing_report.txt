@@ -1,19 +1,19 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-08-16 20:00:55
+Generated: 2026-08-17 20:00:38
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 3083
-Total Channels Found: 1228
+Total Lines Processed: 3081
+Total Channels Found: 1227
 Parsing Errors: 0
-Urls Validated: 980
+Urls Validated: 979
 Active Urls: 801
-Geo Blocked Urls: 152
-Validation Time: 123.43055462837219
-Inactive By Error: {'http_404': 101, 'inactive': 36, 'invalid_content': 18, 'http_502': 1, 'http_503': 8, 'http_400': 7, 'http_504': 5, 'http_500': 1, 'http_421': 2}
-Total Processing Time: 131.1417634487152
+Geo Blocked Urls: 153
+Validation Time: 119.2414619922638
+Inactive By Error: {'http_404': 101, 'inactive': 36, 'invalid_content': 18, 'http_502': 1, 'http_503': 8, 'http_400': 7, 'http_504': 5, 'http_421': 2}
+Total Processing Time: 126.72282218933105
 Final Channel Count: 801
 Source Urls Processed: 8
 Total Skipped Urls: 111
@@ -48,21 +48,21 @@ Lifestyle: 9 channels
 Classic TV: 9 channels
 Crime: 8 channels
 Movies: 8 channels
-Comedy: 7 channels
 Animation;Comedy: 7 channels
 Séries Policières: 7 channels
 Crime & Mystère: 7 channels
 Nature & Travel: 7 channels
 Voyages et Gastronomie: 6 channels
+Comedy: 6 channels
 Classic: 6 channels
 Daytime TV: 6 channels
 Informations Françaises: 5 channels
+Style de vie/Pratique: 5 channels
 Documentary: 5 channels
 Movies;Series: 5 channels
 TV Réalité: 5 channels
 Documentaire: 5 channels
 Sport Thématique: 4 channels
-Style de vie/Pratique: 4 channels
 Anime: 4 channels
 Communautaire: 3 channels
 Locale: 3 channels
@@ -83,9 +83,9 @@ True Crime: 2 channels
 Drama TV: 2 channels
 Hit TV, True Crime: 2 channels
 Educatif: 1 channels
-Réréalité: 1 channels
 Comedie: 1 channels
 Film: 1 channels
+Réréalité: 1 channels
 Affaires Publiques: 1 channels
 Thématique: 1 channels
 Cuisine: 1 channels
@@ -95,15 +95,15 @@ Etrangère: 1 channels
 Lifestyle;Outdoor: 1 channels
 Education;Kids: 1 channels
 Animation;Kids: 1 channels
-Auto: 1 channels
-Outdoor;Sports: 1 channels
 Comedy;Movies: 1 channels
-Relax: 1 channels
-Comedy;Series: 1 channels
 Classic;Movies: 1 channels
-Shop: 1 channels
-Weather: 1 channels
+Auto: 1 channels
 Documentary;Series: 1 channels
+Relax: 1 channels
+Outdoor;Sports: 1 channels
+Shop: 1 channels
+Comedy;Series: 1 channels
+Weather: 1 channels
 Hit TV: 1 channels
 Hit TV, Game Shows: 1 channels
 Drama TV, Movies: 1 channels
@@ -114,7 +114,6 @@ VALIDATION FAILURE BREAKDOWN
 HTTP 400 Errors: 7 channels
 HTTP 404 Errors: 101 channels
 HTTP 421 Errors: 2 channels
-HTTP 500 Errors: 1 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 8 channels
 HTTP 504 Errors: 5 channels
