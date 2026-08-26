@@ -1,59 +1,59 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-08-25 20:02:37
+Generated: 2026-08-26 22:33:13
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 3078
-Total Channels Found: 1226
+Total Lines Processed: 2723
+Total Channels Found: 1049
 Parsing Errors: 0
-Urls Validated: 976
-Active Urls: 738
-Geo Blocked Urls: 127
-Validation Time: 130.2410945892334
-Inactive By Error: {'http_404': 98, 'inactive': 41, 'invalid_content': 17, 'http_502': 1, 'http_503': 8, 'http_400': 6, 'http_504': 5, 'http_500': 1, 'http_429': 61}
-Total Processing Time: 137.70429348945618
-Final Channel Count: 738
+Urls Validated: 951
+Active Urls: 786
+Geo Blocked Urls: 147
+Validation Time: 128.12821769714355
+Inactive By Error: {'http_404': 61, 'inactive': 41, 'invalid_content': 17, 'http_502': 1, 'http_503': 8, 'http_400': 6, 'http_504': 5, 'http_500': 1, 'http_429': 25}
+Total Processing Time: 186.44147396087646
+Final Channel Count: 786
 Source Urls Processed: 8
 Total Skipped Urls: 111
 
 CHANNEL DISTRIBUTION
 --------------------
-Uncategorized: 82 channels
-Music: 56 channels
+Uncategorized: 117 channels
+Music: 50 channels
 Cinéma: 49 channels
 Sports: 43 channels
 General: 40 channels
 Généraliste: 33 channels
-Divertissement: 28 channels
+Divertissement: 29 channels
+Kids: 23 channels
 Series: 22 channels
-Kids: 22 channels
-News: 22 channels
 Actualités: 20 channels
 Séries TV: 19 channels
 Sport Multiplex: 18 channels
 Musique: 15 channels
+News: 14 channels
 TNT: 13 channels
 Documentaires: 12 channels
-Animation: 11 channels
+Animation: 12 channels
+100% Français: 12 channels
 Kids & Family: 11 channels
 FRANCE: 11 channels
 Jeunesse: 10 channels
 Régionale: 10 channels
-100% Français: 10 channels
 Séries et Divertissements: 9 channels
-Lifestyle: 9 channels
 À Binge-Watch: 9 channels
 Classic TV: 9 channels
 Crime: 8 channels
-Movies: 8 channels
+Séries Policières: 8 channels
 Animation;Comedy: 7 channels
-Séries Policières: 7 channels
 Crime & Mystère: 7 channels
+Nature & Travel: 7 channels
 Voyages et Gastronomie: 6 channels
-Comedy: 6 channels
+Movies: 6 channels
 Classic: 6 channels
+Daytime TV: 6 channels
 Informations Françaises: 5 channels
 Documentary: 5 channels
 Movies;Series: 5 channels
@@ -62,46 +62,63 @@ Documentaire: 5 channels
 Sport Thématique: 4 channels
 Style de vie/Pratique: 4 channels
 Anime: 4 channels
+Comedy: 4 channels
 Outdoor: 4 channels
 Communautaire: 3 channels
 Locale: 3 channels
 Télé réalité: 3 channels
+Lifestyle: 3 channels
 Sports & Auto: 3 channels
 Comédie: 3 channels
 Sci-Fi & Action: 3 channels
+Reality: 3 channels
+History & Science: 3 channels
 Découverte: 2 channels
 Classic;Comedy: 2 channels
 Emissions cultes: 2 channels
 Nouveau sur Pluto TV: 2 channels
+Anime & Gaming, Kids & Family: 2 channels
+True Crime: 2 channels
+Drama TV: 2 channels
+Hit TV, True Crime: 2 channels
 Educatif: 1 channels
 Réréalité: 1 channels
 Comedie: 1 channels
 Film: 1 channels
 Affaires Publiques: 1 channels
-Thématique: 1 channels
 Cuisine: 1 channels
+Thématique: 1 channels
 Quebec TV: 1 channels
 Sport: 1 channels
 Etrangère: 1 channels
 Lifestyle;Outdoor: 1 channels
 Education;Kids: 1 channels
-Animation;Kids: 1 channels
 Legislative: 1 channels
+Animation;Kids: 1 channels
 Auto: 1 channels
-Outdoor;Sports: 1 channels
 Comedy;Movies: 1 channels
-Classic;Movies: 1 channels
-Documentary;Series: 1 channels
+Outdoor;Sports: 1 channels
 Relax: 1 channels
 Comedy;Series: 1 channels
-Shop: 1 channels
+Documentary;Series: 1 channels
 Weather: 1 channels
+Shop: 1 channels
+Classic;Movies: 1 channels
+Hit TV: 1 channels
+Hit TV, Game Shows: 1 channels
+Drama TV, Movies: 1 channels
+International: 1 channels
+
+FAILED URLS
+-----------
+URL: https://tinyurl.com/Stream2IPTV?region=fr&service=SamsungTVPlus
+Error: HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=12)
 
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
 HTTP 400 Errors: 6 channels
-HTTP 404 Errors: 98 channels
-HTTP 429 Errors: 61 channels
+HTTP 404 Errors: 61 channels
+HTTP 429 Errors: 25 channels
 HTTP 500 Errors: 1 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 8 channels
