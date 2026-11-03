@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-11-01 23:07:47
+Generated: 2026-11-03 01:50:02
 ============================================================
 
 PROCESSING STATISTICS
@@ -9,20 +9,20 @@ Total Lines Processed: 3108
 Total Channels Found: 1215
 Parsing Errors: 0
 Urls Validated: 971
-Active Urls: 764
-Geo Blocked Urls: 117
-Validation Time: 164.63962650299072
-Inactive By Error: {'http_404': 117, 'http_400': 8, 'inactive': 49, 'invalid_content': 17, 'http_502': 1, 'http_503': 8, 'http_504': 6, 'http_500': 1}
-Total Processing Time: 172.79234385490417
-Final Channel Count: 764
+Active Urls: 715
+Geo Blocked Urls: 101
+Validation Time: 160.75188517570496
+Inactive By Error: {'http_404': 118, 'http_400': 8, 'inactive': 48, 'invalid_content': 17, 'http_502': 1, 'http_503': 8, 'http_504': 7, 'http_500': 1, 'http_429': 48}
+Total Processing Time: 167.20339465141296
+Final Channel Count: 715
 Source Urls Processed: 8
 Total Skipped Urls: 107
 
 CHANNEL DISTRIBUTION
 --------------------
-Uncategorized: 108 channels
-Music: 56 channels
-Cinéma: 50 channels
+Uncategorized: 61 channels
+Music: 55 channels
+Cinéma: 49 channels
 Sports: 43 channels
 Généraliste: 31 channels
 Divertissement: 26 channels
@@ -82,12 +82,12 @@ Drama TV: 2 channels
 Hit TV, True Crime: 2 channels
 Educatif: 1 channels
 Comedie: 1 channels
-Réréalité: 1 channels
 Film: 1 channels
+Réréalité: 1 channels
 Affaires Publiques: 1 channels
 Thématique: 1 channels
-Quebec TV: 1 channels
 Cuisine: 1 channels
+Quebec TV: 1 channels
 Sport: 1 channels
 Etrangère: 1 channels
 Education;Kids: 1 channels
@@ -95,29 +95,30 @@ Legislative: 1 channels
 Animation;Kids: 1 channels
 Auto: 1 channels
 Comedy;Movies: 1 channels
-Classic;Movies: 1 channels
 Documentary;Series: 1 channels
+Classic;Movies: 1 channels
 Outdoor;Sports: 1 channels
 Comedy;Series: 1 channels
-Weather: 1 channels
 Shop: 1 channels
 Relax: 1 channels
+Weather: 1 channels
 Emissions cultes: 1 channels
 Halloween sur Pluto TV: 1 channels
 Hit TV: 1 channels
-Drama TV, Movies: 1 channels
 Hit TV, Game Shows: 1 channels
+Drama TV, Movies: 1 channels
 International: 1 channels
 
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
 HTTP 400 Errors: 8 channels
-HTTP 404 Errors: 117 channels
+HTTP 404 Errors: 118 channels
+HTTP 429 Errors: 48 channels
 HTTP 500 Errors: 1 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 8 channels
-HTTP 504 Errors: 6 channels
-Inactive: 49 channels
+HTTP 504 Errors: 7 channels
+Inactive: 48 channels
 Invalid Content: 17 channels
 
 SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
